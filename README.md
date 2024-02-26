@@ -1,0 +1,2 @@
+# shose
+shoe selling project
